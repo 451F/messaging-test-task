@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^10.0",
+        "fakerphp/faker": "^1.21"
+    },
+    "require": {
+        "egulias/email-validator": "^4.0"
+    }
+}
